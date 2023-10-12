@@ -1,6 +1,6 @@
 # Mojomics
 
-Leveraging the power and UX of [Mojo](https://github.com/modularml/mojo), `Mojomics` is a collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects. `Mojomics` is here to supercharge your bioinformatics workflow.
+Leveraging [Mojo](https://github.com/modularml/mojo), `Mojomics` aims to be a collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects.
 
 ## Table of Contents
 - [Notebooks](#notebooks)
